@@ -6,7 +6,7 @@
 
  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/danielnr25)](https://github.com/danielnr25)
  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/danielnr25)](https://github.com/danielnr25)
- [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/danielnr25)](https://github.com/danielnr25)
+ [![Bootstrap](https://img.shields.io/badge/-Bootstrap-4338ca?style=flat&logo=bootstrap&link=https://github.com/danielnr25)](https://github.com/danielnr25)
  [![Tailwind css](https://img.shields.io/badge/-Tailwind-4338ca?style=flat&logo=tailwindcss&link=https://github.com/danielnr25)](https://github.com/danielnr25)
  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/danielnr25)](https://github.com/danielnr25)
  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/danielnr25)](https://github.com/danielnr25)
